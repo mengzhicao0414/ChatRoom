@@ -1,12 +1,8 @@
-##Abstract 
+## Abstract 
 
 This report outlines the design and development of a program which is a client-server chat program. The program was written in JAVA and tested on MacOs. The design and program are modular in nature and make maximum use of abstract data types and of software re-use. Particular attention is paid to design a server part to receive multiple clients requests and a client part with GUI can send request to server. The report includes a the test cases used to verify the correct operation of the program, as well as the entire code. 
 
 
-
-## Contents Page 
-
- [TOC]
 
 
 
